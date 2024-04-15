@@ -1,0 +1,14 @@
+S:\Visual Studio\Проекти\4\4\bin\Debug\net6.0\4.exe
+S:\Visual Studio\Проекти\4\4\bin\Debug\net6.0\4.deps.json
+S:\Visual Studio\Проекти\4\4\bin\Debug\net6.0\4.runtimeconfig.json
+S:\Visual Studio\Проекти\4\4\bin\Debug\net6.0\4.dll
+S:\Visual Studio\Проекти\4\4\bin\Debug\net6.0\4.pdb
+S:\Visual Studio\Проекти\4\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+S:\Visual Studio\Проекти\4\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+S:\Visual Studio\Проекти\4\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+S:\Visual Studio\Проекти\4\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+S:\Visual Studio\Проекти\4\4\obj\Debug\net6.0\4.dll
+S:\Visual Studio\Проекти\4\4\obj\Debug\net6.0\refint\4.dll
+S:\Visual Studio\Проекти\4\4\obj\Debug\net6.0\4.pdb
+S:\Visual Studio\Проекти\4\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+S:\Visual Studio\Проекти\4\4\obj\Debug\net6.0\ref\4.dll
